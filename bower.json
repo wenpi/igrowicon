@@ -1,0 +1,28 @@
+{
+  "name": "igrowicon",
+  "homepage": "http://wenpi.github.io/igrowicon",
+  "authors": [
+    "realm <huws@163.com>"
+  ],
+  "description": "cloudenergy, igrowicon, iconfont",
+  "main": [
+    "iconfont.css",
+    "fonts/iconfont.eot",
+    "fonts/iconfont.svg",
+    "fonts/iconfont.ttf",
+    "fonts/iconfont.woff"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "cloudenergy",
+    "igrowicon",
+    "iconfont"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
