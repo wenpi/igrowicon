@@ -1,10 +1,10 @@
 {
   "name": "igrowicon",
-  "homepage": "http://wenpi.github.io/igrowicon",
+  "homepage": "http://lxztx.com/igrowicon",
   "authors": [
     "realm <huws@163.com>"
   ],
-  "description": "cloudenergy, igrowicon, iconfont",
+  "description": "education, igrowicon, iconfont",
   "main": [
     "iconfont.css",
     "fonts/iconfont.eot",
@@ -16,7 +16,7 @@
     "globals"
   ],
   "keywords": [
-    "cloudenergy",
+    "education",
     "igrowicon",
     "iconfont"
   ],
