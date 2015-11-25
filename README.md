@@ -2,7 +2,7 @@
  the icons build from [iconfont.cn](http://iconfont.cn) and constant adding, to use in [igrow.cn](http://m.igrow.cn)
 
 ## Homepage
-[http://wenpi.github.io/emicon](http://wenpi.github.io/igorwicon)
+[http://lxztx.com/emicon](http:///lxztx.com/igorwicon)
 
 ## Installation
 ```cmd
